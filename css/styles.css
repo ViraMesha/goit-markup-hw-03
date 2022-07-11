@@ -254,6 +254,10 @@ margin-bottom: 30px;
 
 /* About */
 
+.about {
+    padding-top: 0;
+}
+
 .about-list {
     flex-basis: 1170px;
 }
@@ -261,6 +265,7 @@ margin-bottom: 30px;
 /* Our team */
 
 .team {
+    padding-top: 0;
     background-color: var(--light-grey-cl);
 }
 
